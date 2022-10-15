@@ -27,7 +27,7 @@ print(e)
 f = "-".join([a, b, c, d])
 print(f)
 
-resultado = texto.find("s") #Similar pero si el carácter no existe, no falla... da -1
+resultado = texto.find("s")  # Similar pero si el carácter no existe, no falla... da -1
 print(resultado)
 
 resultado = texto.find("texto")
