@@ -8,6 +8,6 @@ print(type(mi_numero))
 edad = input("Dime tu edad: ")
 print("Tu edad es "+edad)
 
-nueva_edad = 1 + edad #Fallará porque edad es de tipo str
+nueva_edad = 1 + edad  # Fallará porque edad es de tipo str
 print("Vas a cumplir "+nueva_edad)
 
