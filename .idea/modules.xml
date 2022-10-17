@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Comisiones/.idea/Comisiones.iml" filepath="$PROJECT_DIR$/../Comisiones/.idea/Comisiones.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Python_Bases/.idea/Python_Bases.iml" filepath="$PROJECT_DIR$/../Python_Bases/.idea/Python_Bases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Bases.iml" filepath="$PROJECT_DIR$/.idea/Python_Bases.iml" />
     </modules>
   </component>
 </project>
