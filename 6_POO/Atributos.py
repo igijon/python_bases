@@ -9,10 +9,13 @@ class Pajaro:
         self.color = color
         self.especie = especie
 
+    def piar(self):
+        print(f'pío pío, mi color es {self.color}')
 
-mi_pajaro = Pajaro('negro', 'Tucán')
-print(f"Mi pájaro es un {mi_pajaro.especie} de color {mi_pajaro.color}")
-print(Pajaro.alas)
-print(mi_pajaro.alas)
+    def volar(self, metros):
+        print(f'El pájaro ha volado {metros} metros')
 
 
+piolin = Pajaro('amarillo', 'canario')
+piolin.piar()
+piolin.volar(10)
