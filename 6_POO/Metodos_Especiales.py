@@ -31,6 +31,8 @@ class Album:
     def __eq__(self, other):
         return self.titulo == other.titulo and self.autor == other.autor
 
+    # También podemos añadir como métodos especiales __add__ y __sub__ por ejemplo
+
 
 mi_album = Album('Robe Iniesta', 'Bienvenidos al temporal', 19)
 print(mi_album)
