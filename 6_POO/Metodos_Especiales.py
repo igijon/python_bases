@@ -28,6 +28,7 @@ class Album:
         # Siempre lo va a borrar pero además hemos implementado que informe
         print(f'Se ha borrado la instancia de album')
 
+
 mi_album = Album('Robe Iniesta', 'Bienvenidos al temporal', 19)
 print(mi_album)
 print(len(mi_album))
