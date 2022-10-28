@@ -4,3 +4,7 @@ class Cliente:
 
     def hablar(self):
         print(f'Hola, me llamo {self.nombre}')
+
+
+class Anuales(Cliente):
+    pass
